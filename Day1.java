@@ -4,7 +4,7 @@
 public class Day1 {
     public static void main (String[] args) {
         System.out.println("Hello, Welcome back Chief!");
-
+        System.out.println("Today is 27-12-2022");
         System.out.println("I am Currently Learning JAVA");
 
         System.out.print("Hello ");
@@ -44,7 +44,7 @@ public class Day1 {
         String fullName = firstName + lastName;
         System.out.println(fullName);
 
-        
+
 
 
 
