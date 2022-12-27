@@ -6,6 +6,7 @@ public class Day1 {
         System.out.println("Hello, Welcome back Chief!");
         System.out.println("Today is 27-12-2022");
         System.out.println("I am Currently Learning JAVA");
+        System.out.println("Day-1 of Learning Java");
 
         System.out.print("Hello ");
         System.out.println("Bye");
