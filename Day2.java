@@ -60,6 +60,24 @@ public class Day2 {
         System.out.println(myDOuble);
         System.out.println(myNo);
 
+        //Bollean Expression
+        int a= 10;
+        int b= 9;
+        System.out.println(a>b); //return true
+
+        System.out.println(a==11); //return false
+
+        int myAGE = 19;
+        int VotingAge = 18;
+
+        if (myAGE>VotingAge) {
+            System.out.println("Elgible to Vote");
+        } else {
+            System.out.println("Not Eligible");
+        } 
+
+
+
 
 
 
