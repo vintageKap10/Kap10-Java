@@ -55,6 +55,11 @@ public class Day2 {
         System.out.println(myInt);
         System.out.println(myDouble);
 
+        double myDOuble = 6.9d;
+        int myNo = (int) myDOuble;
+        System.out.println(myDOuble);
+        System.out.println(myNo);
+
 
 
 
